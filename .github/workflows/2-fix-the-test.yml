@@ -10,9 +10,6 @@ on:
   push:
     branches:
       - ci
-    paths:
-      - README.md
-      - resume.md
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
